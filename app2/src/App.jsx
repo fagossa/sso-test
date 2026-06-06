@@ -32,7 +32,7 @@ export default function App() {
   }
 
   function redirectToApp1() {
-    window.location.href = 'http://localhost:5173'
+    window.location.href = 'http://localhost/app1'
   }
 
   return (

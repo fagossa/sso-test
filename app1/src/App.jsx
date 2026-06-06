@@ -16,7 +16,7 @@ export default function App() {
   }
 
   function redirectToApp2() {
-    window.location.href = 'http://localhost:5175'
+    window.location.href = 'http://localhost/app2'
   }
 
   function readCookies() {
